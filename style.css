@@ -73,3 +73,31 @@
     color: #201f1f;
     padding-top: 20px;
 }
+.box{
+    height: 280px;
+    width: 230px;
+    color: floralwhite;
+    box-shadow: 4px 4px 15px grey;
+    background-color: #000;
+    text-align: center;
+    padding: 15px;
+}
+.icon{
+    width: 70px;
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-title{
+    padding: 10px;
+}
+.box-description{
+    padding: 5px;
+
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
